@@ -18,7 +18,7 @@ const StrukturKelas = () => {
 		<div className="z-1 relative h-auto lg:overflow-hidden">
 			{/* wali kelas */}
 			<div data-aos="fade-up" data-aos-duration="500" className="mt-14 md:mt-10">
-				<BorderStruktur Jabatan="Wali Kelas" Nama="Abdul Wahab S.Pdi" Width="150px" />
+				<BorderStruktur Jabatan="Wali Kelas" Nama="Lita Nurapiyami S.Pd" Width="150px" />
 			</div>
 			<div className="flex flex-col justify-center items-center">
 				<img src="LineVertikal.svg" alt="" data-aos="fade-up" data-aos-duration="550" />
@@ -66,14 +66,14 @@ const StrukturKelas = () => {
 				{/* wakil dan ketua */}
 				<div className="flex relative top-[-3rem]" data-aos="fade-up" data-aos-duration="1200">
 					<div className="relative left-[0.2rem]">
-						<BorderStruktur Jabatan="Ketua Kelas" Nama="Putry" Width="120px" />
+						<BorderStruktur Jabatan="Ketua Kelas" Nama="Rustaman" Width="120px" />
 					</div>
 					<img src="LineHorizontalPendek.svg" className="relative top-3" />
 					<img src="LineHorizontalPendek.svg" className="relative top-3 hidden lg:flex" />
 					<img src="LineHorizontalPendek.svg" className="relative top-3 hidden lg:flex" />
 					<img src="LineHorizontalPendek.svg" className="relative top-3 hidden lg:flex" />
 					<div className="relative right-[0.2rem]">
-						<BorderStruktur Jabatan="Wakil Ketua" Nama="Jeriko" Width="120px" />
+						<BorderStruktur Jabatan="Wakil Ketua" Nama="M. Gibran" Width="120px" />
 					</div>
 				</div>
 
@@ -128,15 +128,15 @@ const StrukturKelas = () => {
 					data-aos="fade-up"
 					data-aos-duration="1200">
 					<div className="flex-col">
-						<BorderStruktur Jabatan="Sekertaris" Nama="Pratiwi" Width="120px" />
+						<BorderStruktur Jabatan="Sekertaris" Nama="Haura" Width="120px" />
 						<div className="py-[3%]"></div>
-						<BorderStruktur Jabatan="" Nama="Paulista" Width="120px" />
+						<BorderStruktur Jabatan="" Nama="Jenisa" Width="120px" />
 					</div>
 
 					<div className="flex-col">
-						<BorderStruktur Jabatan="Bendahara" Nama="Lista" Width="120px" />
+						<BorderStruktur Jabatan="Bendahara" Nama="Shela" Width="120px" />
 						<div className="py-[3%]"></div>
-						<BorderStruktur Jabatan="" Nama="Davina" Width="120px" />
+						<BorderStruktur Jabatan="" Nama="Regina" Width="120px" />
 					</div>
 				</div>
 
